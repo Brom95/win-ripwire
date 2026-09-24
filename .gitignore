@@ -1,0 +1,23 @@
+# ── ripwire checkout (cloned by the installer) ─────────────────────────────
+/ripwire/
+
+# ── Build artifacts ─────────────────────────────────────────────────────────
+/build-install-win/
+/bin/
+/out/
+*.obj
+*.exe
+*.dll
+*.pdb
+
+# ── Environment / tooling (not part of the deliverable) ────────────────────
+/.qwen/
+/openspec/
+/ripwire_qwen_backup/
+
+# ── OS junk ─────────────────────────────────────────────────────────────────
+*.lnk
+*.tmp
+~*
+.DS_Store
+System.IO.*
