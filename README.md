@@ -92,5 +92,6 @@ All source code comes from the upstream repository:
 
 ## License
 
-This repository (installer + docs) is provided as-is for convenience. The
-upstream ripwire code is governed by [its own license](https://github.com/redhat-et/ripwire/blob/main/LICENSE).
+This repository (installer + docs) is released under the [Apache License
+2.0](LICENSE). The upstream ripwire code is governed by
+[its own license](https://github.com/redhat-et/ripwire/blob/main/LICENSE).
